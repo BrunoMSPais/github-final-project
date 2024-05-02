@@ -9,8 +9,11 @@ Final project for the Cursera "Getting Started with Git and GitHub" course as pa
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+
+\tp, principal amount\n
+\tt, time period in years\n
+\tr, annual rate of interest\n
+   
+Output:
+   
+\tsimple interest = p*t*r
